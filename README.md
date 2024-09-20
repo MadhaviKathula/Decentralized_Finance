@@ -1,1 +1,1 @@
-Decentralized Finance - financial services with no central authority. It’s common goal is to develop and operate in a decentralized way-without intermediaries such as banks, payment service providers or investment funds.
+
